@@ -1,0 +1,8 @@
+<document title="Test">
+    <text style="italic">I like Italic very much!</text>
+    <text size="100px">I'M BIG!</text>
+    <text align="center">!CENTER!</text>
+    <text color="#00ff00">I'm green.</text>
+    <text indent="100px">Indent 100px!</text>
+    <text css="background-color: aqua;">With CSS, My background is AQUA!</text>
+</document>
